@@ -1,5 +1,3 @@
-# Refactoring Case Study
-
 ## Context and Challenge
 
 The original implementation of CRUD attributes management was contained in a single file that handled multiple responsibilities:

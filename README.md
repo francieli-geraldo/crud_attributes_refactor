@@ -1,3 +1,6 @@
+# Refactoring Case Study
+github:  https://github.com/francieli-geraldo/crud_attributes_refactor/tree/master
+
 ## Context and Challenge
 
 The original implementation of CRUD attributes management was contained in a single file that handled multiple responsibilities:
